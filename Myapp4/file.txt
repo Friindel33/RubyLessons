@@ -1,0 +1,10 @@
+=================================
+Name: mike	  age: 65	
+Name: michael	  age: 66	
+Name: mishka	  age: 67	
+Name: mishutka	  age: 68	
+Name: walt	  age: 50	
+Name: waltik	  age: 52	
+Name: waltov	  age: 53	
+Name: waltavich	  age: 54	
+=================================
