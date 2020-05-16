@@ -5,7 +5,7 @@ get '/' do
 end
 
 # спросим Имя, номер телефона и дату, когда придёт клиент.
-post '/' do
+post '/visit' do
   # user_name, phone, date_time
   @user_name = params[:user_name]
   @phone = params[:phone]
